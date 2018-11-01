@@ -1,2 +1,2 @@
-# notebook
-IPython Notebook Repository from Colaboratory.research.google.com
+# notebooks
+IPython Notebook Repository from colab.research.google.com
